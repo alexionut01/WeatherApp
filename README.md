@@ -1,4 +1,4 @@
-# WeatherApp
+# <p align="center">WeatherApp</p>
 
 A basic weather app, with dark/light mode enabled, that checks the weather of the searched city, by fetching data from OpenWeather API. <br>
 <br>
