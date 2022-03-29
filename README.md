@@ -11,6 +11,6 @@ A basic weather app, with dark/light mode enabled, that checks the weather of th
 • How to use the UITextField to get user input <br>
 • Parse JSON data <br>
 • How to use URLSession <br>
-• How to use Grand Central Dispatch to fetch the main thread <br>
+• How to use Dispatch Queue to fetch the main thread <br>
 </p>
   
